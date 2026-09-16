@@ -1,5 +1,5 @@
 function login(user, pass) {
-    if (user === "admin" && pass === "123") {
+    if (user === "admin" && pass === "12368") {
         return true;
     }
 
